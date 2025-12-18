@@ -7,7 +7,7 @@
 
 I'm a passionate software engineer based in Dallas, TX, focused on building impactful mobile and web applications using the latest AI tools and cloud technologies. My journey spans from full-stack development to data engineering, with hands-on experience in both startup and enterprise environments.
 
-- 🖥️ **Current Role:** Software Engineer at BRDSAI  
+- 🖥️ **Current Role:** Software Engineer at EventzAI  
 - 🏫 **Education:** MS in Computer Science from Illinois Institute of Technology  
 - 🌎 **Location:** Dallas, TX, USA  
 - 💬 **Ask me about:** React Native, AI/ML, Python, FastAPI, DevOps, Cloud, and Data Engineering
