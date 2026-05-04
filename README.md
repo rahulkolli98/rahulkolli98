@@ -41,7 +41,6 @@ Power BI, Tableau, Postman, Jira, Git, PySpark, Pandas, NumPy
 - **Fake News Detector:**  
   Built a Random Forest ML model in Python to classify news, achieving 85%+ accuracy.
 
-See more of my work on [my GitHub profile](https://github.com/rahulkolli98).
 
 ---
 
